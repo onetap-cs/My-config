@@ -1,1 +1,1 @@
-# My-config
+# CS2 autoexec
